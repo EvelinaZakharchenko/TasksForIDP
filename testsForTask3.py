@@ -24,7 +24,6 @@ def test_array_with_few_equal_numbers():
     assert max2 == 998, "Wrong max2 number, when array contains few equal numbers"
 
 
-
 if __name__ == "__main__":
     test_positive_case()
     test_array_with_all_the_same_numbers()
